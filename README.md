@@ -6,17 +6,24 @@
 
 | Total Problems | Topics |
 |---|---|
-| 2 | 3 |
+| 3 | 4 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [brute force](#brute-force) (1)
 - [dp](#dp) (1)
-- [greedy](#greedy) (1)
+- [greedy](#greedy) (2)
 - [strings](#strings) (1)
 
 ---
+
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2237B | [Annoying the Ghost](https://codeforces.com/contest/2237/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/JHNayan23/CF_Solution/blob/HEAD/2237/B%20-%20Annoying%20the%20Ghost/solution.cpp) |
 
 ### dp
 
@@ -29,6 +36,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2237A | [Destroying Towers](https://codeforces.com/contest/2237/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/JHNayan23/CF_Solution/blob/HEAD/2237/A%20-%20Destroying%20Towers/solution.cpp) |
+| 2237B | [Annoying the Ghost](https://codeforces.com/contest/2237/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/JHNayan23/CF_Solution/blob/HEAD/2237/B%20-%20Annoying%20the%20Ghost/solution.cpp) |
 
 ### strings
 
