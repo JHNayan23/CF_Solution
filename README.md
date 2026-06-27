@@ -6,18 +6,25 @@
 
 | Total Problems | Topics |
 |---|---|
-| 4 | 4 |
+| 5 | 5 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [Uncategorized](#uncategorized) (1)
 - [brute force](#brute-force) (1)
 - [dp](#dp) (1)
 - [greedy](#greedy) (3)
 - [strings](#strings) (1)
 
 ---
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2240A | [Another Popcount Problem](https://codeforces.com/contest/2240/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/JHNayan23/CF_Solution/blob/HEAD/2240/A%20-%20Another%20Popcount%20Problem/solution.cpp) |
 
 ### brute force
 
