@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 11 | 5 |
+| 12 | 5 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (7)
+- [Uncategorized](#uncategorized) (8)
 - [brute force](#brute-force) (1)
 - [dp](#dp) (1)
 - [greedy](#greedy) (3)
@@ -31,6 +31,7 @@
 | 2240B | [AI Finds Nothing Here](https://codeforces.com/contest/2240/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/JHNayan23/CF_Solution/blob/HEAD/2240/B%20-%20AI%20Finds%20Nothing%20Here/solution.cpp) |
 | 2240C | [Nim Game Is XOR Game](https://codeforces.com/contest/2240/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/JHNayan23/CF_Solution/blob/HEAD/2240/C%20-%20Nim%20Game%20Is%20XOR%20Game/solution.cpp) |
 | 2240D | [Decidophobia](https://codeforces.com/contest/2240/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/JHNayan23/CF_Solution/blob/HEAD/2240/D%20-%20Decidophobia/solution.cpp) |
+| 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/JHNayan23/CF_Solution/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.cpp) |
 
 ### brute force
 
