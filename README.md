@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 15 | 5 |
+| 16 | 5 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (11)
+- [Uncategorized](#uncategorized) (12)
 - [brute force](#brute-force) (1)
 - [dp](#dp) (1)
 - [greedy](#greedy) (3)
@@ -35,6 +35,7 @@
 | 2241B | [Good times Good times](https://codeforces.com/contest/2241/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/JHNayan23/CF_Solution/blob/HEAD/2241/B%20-%20Good%20times%20Good%20times/solution.cpp) |
 | 2241C | [RemovevomeR](https://codeforces.com/contest/2241/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/JHNayan23/CF_Solution/blob/HEAD/2241/C%20-%20RemovevomeR/solution.cpp) |
 | 2241G | [Summmon](https://codeforces.com/contest/2241/problem/G) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/JHNayan23/CF_Solution/blob/HEAD/2241/G%20-%20Summmon/solution.cpp) |
+| 2242A | [Bigrams](https://codeforces.com/contest/2242/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/JHNayan23/CF_Solution/blob/HEAD/2242/A%20-%20Bigrams/solution.cpp) |
 
 ### brute force
 
