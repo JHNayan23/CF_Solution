@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 22 | 5 |
+| 23 | 5 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (18)
+- [Uncategorized](#uncategorized) (19)
 - [brute force](#brute-force) (1)
 - [dp](#dp) (1)
 - [greedy](#greedy) (3)
@@ -42,6 +42,7 @@
 | 2246A | [farmpiggie and Subset Sum](https://codeforces.com/contest/2246/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/JHNayan23/CF_Solution/blob/HEAD/2246/A%20-%20farmpiggie%20and%20Subset%20Sum/solution.cpp) |
 | 2246B | [ezraft and Array](https://codeforces.com/contest/2246/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/JHNayan23/CF_Solution/blob/HEAD/2246/B%20-%20ezraft%20and%20Array/solution.cpp) |
 | 2246C | [0mar and Alternating Sums](https://codeforces.com/contest/2246/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/JHNayan23/CF_Solution/blob/HEAD/2246/C%20-%200mar%20and%20Alternating%20Sums/solution.cpp) |
+| 2246D | [diss_quack and Array Game](https://codeforces.com/contest/2246/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/JHNayan23/CF_Solution/blob/HEAD/2246/D%20-%20diss_quack%20and%20Array%20Game/solution.cpp) |
 
 ### brute force
 
