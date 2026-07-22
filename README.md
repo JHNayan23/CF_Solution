@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 31 | 5 |
+| 32 | 7 |
 
 ---
 
@@ -14,8 +14,10 @@
 
 - [Uncategorized](#uncategorized) (27)
 - [brute force](#brute-force) (1)
-- [dp](#dp) (1)
+- [constructive algorithms](#constructive-algorithms) (1)
+- [dp](#dp) (2)
 - [greedy](#greedy) (3)
+- [number theory](#number-theory) (1)
 - [strings](#strings) (1)
 
 ---
@@ -58,11 +60,18 @@
 |---|---------|------------|----------|
 | 2237B | [Annoying the Ghost](https://codeforces.com/contest/2237/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/JHNayan23/CF_Solution/blob/HEAD/2237/B%20-%20Annoying%20the%20Ghost/solution.cpp) |
 
+### constructive algorithms
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2247A | [Zero Sum](https://codeforces.com/contest/2247/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/JHNayan23/CF_Solution/blob/HEAD/2247/A%20-%20Zero%20Sum/solution.cpp) |
+
 ### dp
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2181M | [Medical Parity](https://codeforces.com/contest/2181/problem/M) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/JHNayan23/CF_Solution/blob/HEAD/2181/M%20-%20Medical%20Parity/solution.cpp) |
+| 2247A | [Zero Sum](https://codeforces.com/contest/2247/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/JHNayan23/CF_Solution/blob/HEAD/2247/A%20-%20Zero%20Sum/solution.cpp) |
 
 ### greedy
 
@@ -71,6 +80,12 @@
 | 2237A | [Destroying Towers](https://codeforces.com/contest/2237/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/JHNayan23/CF_Solution/blob/HEAD/2237/A%20-%20Destroying%20Towers/solution.cpp) |
 | 2237B | [Annoying the Ghost](https://codeforces.com/contest/2237/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/JHNayan23/CF_Solution/blob/HEAD/2237/B%20-%20Annoying%20the%20Ghost/solution.cpp) |
 | 2237C | [Duck Surplus](https://codeforces.com/contest/2237/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/JHNayan23/CF_Solution/blob/HEAD/2237/C%20-%20Duck%20Surplus/solution.cpp) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2247A | [Zero Sum](https://codeforces.com/contest/2247/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/JHNayan23/CF_Solution/blob/HEAD/2247/A%20-%20Zero%20Sum/solution.cpp) |
 
 ### strings
 
